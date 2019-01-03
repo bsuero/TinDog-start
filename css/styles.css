@@ -53,3 +53,30 @@ h1 {
   transform: rotate(25deg);
   margin-left: 10rem;
 }
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+h3 {
+  font-family: "Russo One", sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.font-image-for-feature-box {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.font-image-for-feature-box:hover {
+  color: #ff4c68;
+}
